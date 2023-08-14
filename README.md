@@ -1,11 +1,11 @@
 # OffensiveSecurity
-OffSec Leaked (PWK, PEN300, AWAE)
+OffSec Leaked (PWK (PEN-200), PEN-300, AWAE)
 #
-### PWK
+### PWK (PEN-200)
 ```
 http://pwk.hide01.ir
 ```
-### PEN300
+### PEN-300
 ```
 http://pen300.hide01.ir
 ```
